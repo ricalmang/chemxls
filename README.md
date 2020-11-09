@@ -26,7 +26,7 @@ If you want to analyze the current directory, you can start the program and set 
 ```bash
 python3 -m chemxls --cwd
 ```
-
+ 
 Alternatively, a Windons 10 executable can be downloaded on the following link:\
 [**chemxls-v01.exe**](https://github.com/ricalmang/chemxls/releases/download/v0.0.1/chemxls-v011.exe)
 
