@@ -1,6 +1,7 @@
 # chemxls
 
-**Chemxls** can recursively analyze directories and mine data from some of the most common computational chemistry input and output files. This data is then organized, on an easily configurable way, into an user friendly Spreadsheet document that containing raw data, processed data or Hyperlinks to aditional data.
+**Chemxls** can recursively analyze directories and mine data from some of the most common computational chemistry input and output files. This data is then organized, on an easily configurable way, into an user friendly Spreadsheet document that containing raw data, processed data or Hyperlinks to aditional data.\
+![GitHub all releases](https://img.shields.io/github/downloads/ricalmang/chemxls/total?color=lgreen&label=GitHub%20dowloads)
 
 ## User Interface
 
@@ -35,6 +36,10 @@ Alternatively, a Windons 10 executable can be downloaded on the following link:\
 The output will be a spreadsheet document containing the requested data:
 
 ![Interface](chemxls/supl/output.png)
+
+## Acknowledgments
+
+This project was funded by São Paulo Research Foundation (FAPESP) under grant 2019/02052-4.
 
 ## Contact
 
